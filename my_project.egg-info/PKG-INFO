@@ -1,0 +1,6 @@
+Metadata-Version: 2.1
+Name: my_project
+Version: 0.1
+Requires-Python: >=3.8
+Requires-Dist: pandas
+Requires-Dist: numpy

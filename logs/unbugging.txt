@@ -1,0 +1,263 @@
+Results of the inference:
+Model: resnet
+Measure: remove
+Date and time: 2025-09-25 10:45:20
+
+top_1_acc: [0.73913043 1.         1.        ]
+top_5_acc: [0.86956522 1.         1.        ]
+maj_acc: [0.7826087 1.        1.       ]
+t_tot: 0.25946521759033203
+t_model: 0.23212289810180664
+t_search: 0.022365093231201172
+t_transfer: 0.0011343955993652344
+------------------------------------------------------------------------
+Results of the inference:
+Model: resnet
+Measure: remove
+Date and time: 2025-09-25 10:47:20
+
+top_1_acc: [0.73913043 1.         1.        ]
+top_5_acc: [0.86956522 1.         1.        ]
+maj_acc: [0.7826087 1.        1.       ]
+t_tot: 0.22388458251953125
+t_model: 0.19774961471557617
+t_search: 0.021111488342285156
+t_transfer: 0.0011296272277832031
+------------------------------------------------------------------------
+Results of the inference:
+Model: resnet
+Measure: remove
+Date and time: 2025-09-25 10:52:54
+
+Data: uliege found in Data path: /home/axelle/Documents/Doctorat/Main research/Data/uliege/unbugging/small_val
+top_1_acc: [0.73913043 1.         1.        ]
+top_5_acc: [0.86956522 1.         1.        ]
+maj_acc: [0.7826087 1.        1.       ]
+t_tot: 0.24028277397155762
+t_model: 0.20633721351623535
+t_search: 0.028272628784179688
+t_transfer: 0.0013308525085449219
+------------------------------------------------------------------------
+Results of the inference:
+Model: resnet
+Measure: remove
+Date and time: 2025-09-25 10:53:37
+Data: uliege found in Data path: /home/axelle/Documents/Doctorat/Main research/Data/uliege/unbugging/small_val
+
+top_1_acc: [0.73913043 1.         1.        ]
+top_5_acc: [0.86956522 1.         1.        ]
+maj_acc: [0.7826087 1.        1.       ]
+t_tot: 0.27546215057373047
+t_model: 0.22737812995910645
+t_search: 0.04268217086791992
+t_transfer: 0.0012922286987304688
+------------------------------------------------------------------------
+Results of the inference:
+Model: resnet
+Measure: weighted
+Date and time: 2025-09-25 10:54:20
+Data: uliege found in Data path: /home/axelle/Documents/Doctorat/Main research/Data/uliege/unbugging/small_val
+
+top_1_acc: [0.7 1.  1. ]
+top_5_acc: [0.825 1.    1.   ]
+maj_acc: [0.7125 1.     1.    ]
+t_tot: 0.2228693962097168
+t_model: 0.19751882553100586
+t_search: 0.020581722259521484
+t_transfer: 0.0011205673217773438
+------------------------------------------------------------------------
+Results of the inference:
+Model: resnet
+Measure: weighted
+Date and time: 2025-09-25 11:24:11
+Data: uliege found in Data path: /home/axelle/Documents/Doctorat/Main research/Data/uliege/unbugging/small_val
+
+top_1_acc: 0.9000 ± 0.1414
+top_5_acc: 0.9417 ± 0.0825
+maj_acc: 0.9042 ± 0.1355
+t_tot: 0.2318
+t_model: 0.2014
+t_search: 0.0251
+t_transfer: 0.0012
+------------------------------------------------------------------------
+Results of the inference:
+Model: resnet
+Measure: weighted
+Date and time: 2025-09-25 11:25:12
+Data: uliege found in Data path: /home/axelle/Documents/Doctorat/Main research/Data/uliege/unbugging/small_val
+
+top_1_acc: 0.9000 ± 0.1414
+top_5_acc: 0.9417 ± 0.0825
+maj_acc: 0.9042 ± 0.1355
+t_tot: 0.2757
+t_model: 0.2426
+t_search: 0.0273
+t_transfer: 0.0013
+------------------------------------------------------------------------
+Results of the inference:
+Model: resnet
+Measure: weighted
+Date and time: 2025-09-25 11:25:44
+Data: uliege found in Data path: /home/axelle/Documents/Doctorat/Main research/Data/uliege/unbugging/small_val
+
+top_1_acc: 0.9000 ± 0.1414
+top_5_acc: 0.9417 ± 0.0825
+maj_acc: 0.9042 ± 0.1355
+t_tot: 0.2156
+t_model: 0.1904
+t_search: 0.0205
+t_transfer: 0.0011
+------------------------------------------------------------------------
+Results of the inference:
+Model: resnet
+Measure: weighted
+Date and time: 2025-09-25 11:26:57
+Data: uliege found in Data path: /home/axelle/Documents/Doctorat/Main research/Data/uliege/unbugging/small_val
+
+top_1_acc: 0.9000 ± 0.1414
+top_5_acc: 0.9417 ± 0.0825
+maj_acc: 0.9042 ± 0.1355
+t_tot: 0.1680 ± 0.0335
+t_model: 0.1376 ± 0.0302
+t_search: 0.0249 ± 0.0073
+t_transfer: 0.0012 ± 0.0001
+------------------------------------------------------------------------
+Results of the inference:
+Model: resnet
+Measure: weighted
+Date and time: 2025-09-25 11:28:11
+Data: uliege found in Data path: /home/axelle/Documents/Doctorat/Main research/Data/uliege/unbugging/small_val
+
+top_1_acc: 0.9000 ± 0.1414
+top_5_acc: 0.9417 ± 0.0825
+maj_acc: 0.9042 ± 0.1355
+t_tot: 0.1648 ± 0.0324
+t_model: 0.1351 ± 0.0295
+t_search: 0.0245 ± 0.0034
+t_transfer: 0.0012 ± 0.0000
+------------------------------------------------------------------------
+Results of the inference:
+Model: resnet
+Measure: weighted
+Date and time: 2025-09-25 11:29:31
+Data: uliege found in Data path: /home/axelle/Documents/Doctorat/Main research/Data/uliege/unbugging/small_val
+
+top_1_acc: 0.9000 ± 0.1414
+top_5_acc: 0.9417 ± 0.0825
+maj_acc: 0.9042 ± 0.1355
+t_tot: 0.1630 ± 0.0329
+t_model: 0.1337 ± 0.0317
+t_search: 0.0242 ± 0.0019
+t_transfer: 0.0012 ± 0.0001
+------------------------------------------------------------------------
+Results of the inference:
+Model: resnet
+Measure: weighted
+Date and time: 2025-09-25 11:30:04
+Data: uliege found in Data path: /home/axelle/Documents/Doctorat/Main research/Data/uliege/unbugging/small_val
+
+top_1_acc: [0.7 1.  1. ]
+top_5_acc: [0.825 1.    1.   ]
+maj_acc: [0.7125 1.     1.    ]
+t_tot: 0.2886998653411865
+t_model: 0.23807215690612793
+t_search: 0.0411074161529541
+t_transfer: 0.0012996196746826172
+------------------------------------------------------------------------
+Results of the inference:
+Model: resnet
+Measure: weighted
+Date and time: 2025-09-25 11:37:18
+Data: uliege found in Data path: /home/axelle/Documents/Doctorat/Main research/Data/uliege/unbugging/small_val
+
+top_1_acc: [0.7 1.  1. ]
+top_5_acc: [0.825 1.    1.   ]
+maj_acc: [0.7125 1.     1.    ]
+t_tot: 0.2415
+t_model: 0.1982
+t_search: 0.0379
+t_transfer: 0.0013
+------------------------------------------------------------------------
+Results of the inference:
+Model: resnet
+Measure: weighted
+Date and time: 2025-09-25 11:38:12
+Data: uliege found in Data path: /home/axelle/Documents/Doctorat/Main research/Data/uliege/unbugging/small_val
+
+top_1_acc: [0.7 1.  1. ]
+top_5_acc: [0.825 1.    1.   ]
+maj_acc: [0.7125 1.     1.    ]
+t_tot: 0.2169
+t_model: 0.1920
+t_search: 0.0203
+t_transfer: 0.0011
+------------------------------------------------------------------------
+Results of the inference:
+Model: resnet
+Measure: weighted
+Date and time: 2025-09-25 11:38:40
+Data: uliege found in Data path: /home/axelle/Documents/Doctorat/Main research/Data/uliege/unbugging/small_val
+
+top_1_acc: ['0.7000 ± 0.0000', '1.0000 ± 0.0000', '1.0000 ± 0.0000']
+top_5_acc: ['0.8250 ± 0.0000', '1.0000 ± 0.0000', '1.0000 ± 0.0000']
+maj_acc: ['0.7125 ± 0.0000', '1.0000 ± 0.0000', '1.0000 ± 0.0000']
+t_tot: 0.1671 ± 0.0409
+t_model: 0.1337 ± 0.0347
+t_search: 0.0282 ± 0.0065
+t_transfer: 0.0012 ± 0.0001
+------------------------------------------------------------------------
+Results of the inference:
+Model: resnet
+Measure: all
+Date and time: 2025-09-25 15:40:53
+Data: uliege found in Data path: /home/axelle/Documents/Doctorat/Main research/Data/uliege/unbugging/small_val
+
+top_1_acc: [0.73913043 1.         1.        ]
+top_5_acc: [0.86956522 1.         1.        ]
+maj_acc: [0.7826087 1.        1.       ]
+t_tot: 0.2674
+t_model: 0.2210
+t_search: 0.0372
+t_transfer: 0.0015
+------------------------------------------------------------------------
+Results of the inference:
+Model: resnet
+Measure: all
+Date and time: 2025-09-25 15:43:06
+Data: uliege found in Data path: /home/axelle/Documents/Doctorat/Main research/Data/uliege/unbugging/small_val
+
+top_1_acc: [0.73913043 1.         1.        ]
+top_5_acc: [0.86956522 1.         1.        ]
+maj_acc: [0.7826087 1.        1.       ]
+t_tot: 0.2322
+t_model: 0.1995
+t_search: 0.0273
+t_transfer: 0.0012
+------------------------------------------------------------------------
+Results of the inference:
+Model: resnet
+Measure: all
+Date and time: 2025-09-25 15:43:51
+Data: uliege found in Data path: /home/axelle/Documents/Doctorat/Main research/Data/uliege/unbugging/small_val
+
+top_1_acc: [0.73913043 1.         1.        ]
+top_5_acc: [0.86956522 1.         1.        ]
+maj_acc: [0.7826087 1.        1.       ]
+t_tot: 0.2203
+t_model: 0.1935
+t_search: 0.0217
+t_transfer: 0.0012
+------------------------------------------------------------------------
+Results of the inference:
+Model: resnet
+Measure: all
+Date and time: 2025-09-25 15:45:58
+Data: uliege found in Data path: /home/axelle/Documents/Doctorat/Main research/Data/uliege/unbugging/small_val
+
+top_1_acc: [0.73913043 1.         1.        ]
+top_5_acc: [0.86956522 1.         1.        ]
+maj_acc: [0.7826087 1.        1.       ]
+t_tot: 0.2453
+t_model: 0.2104
+t_search: 0.0291
+t_transfer: 0.0012
